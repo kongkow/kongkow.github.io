@@ -1,5 +1,11 @@
 ---
 published: true
+layout: post
+tags:
+  - Kontes SEO
+categories:
+  - SEO
+permalink: marimas-tidak-bikin-batuk
 ---
 ## Marimas bikin Adem tidak Bikin Batuk
 
