@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Marimas bikin Adem tidak Bikin Batuk
 
