@@ -9,8 +9,6 @@ tags:
 layout: post
 ---
 
-## Marimas bikin Adem tidak Bikin Batuk
-
 Wah sudah lama ya saya tidak posting diblog ini, terakhir tahun 2016 saat itu ada kontes SEO juga. kali ini saya juga mengunjungi blog ini karena kontes [SEO Marimas bikin Adem tidak bikin batuk](http://blog.putraeka.org/post/marimas-bikin-adem-tidak-bikin-batuk) yang sebentar lagi akan diumumkan pemenangnya. 
 
 Ada banyak blogger yang mengikuti kontes yang diadakan langsung oleh PT. Marimas Putra Kencana ini sebagai pemegang merek Marimas. Saya masih di halaman dua walaupun sempat sehari di pejwan nomor lima. Halaman satu didominasi oleh pemain lama. 
