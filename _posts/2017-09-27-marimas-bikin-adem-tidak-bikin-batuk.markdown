@@ -1,7 +1,7 @@
 ---
 title: Marimas Bikin Adem Tidak Bikin Batuk
 date: 2017-09-27 19:14:00 +07:00
-permalink: "/posts/marimas-tidak-bikin-batuk"
+permalink: "/marimas-tidak-bikin-batuk"
 categories:
 - SEO
 tags:
