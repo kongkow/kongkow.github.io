@@ -1,11 +1,14 @@
 ---
-published: true
 title: Tips SEO Untuk Pemula
-layout: post
-tags: [SE]
-categories: [SEO]
+date: 2016-10-06 00:00:00 Z
 permalink: tips-seo-untuk-pemula
+categories:
+- SEO
+tags:
+- SE
+layout: post
 ---
+
 Bagi anda yang baru mulai terjun di dunia Search Engine Optimization (SEO), tutorial kali ini akan sangat membantu anda untuk lebih memahami bagaimana SEO itu berjalan. Apakah untuk menaikkan rangking dihalaman satu website butuh backlink yang banyak? Apa gunanya PBN untuk tambahan backlink anda?
 
 Pada artikel kali ini saya akan membahas secara singkat apa saja yang perlu anda perhatikan jika anda baru memulai campaign SEO. Perlu anda perhatikan saat ini google sudah lebih mahir dalam mengenali setiap cara yang dilakukan untuk memanipulasi halaman satu website. 

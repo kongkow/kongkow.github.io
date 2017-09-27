@@ -1,12 +1,12 @@
 ---
-published: true
+permalink: marimas-tidak-bikin-batuk
 layout: post
 tags:
-  - Kontes SEO
+- Kontes SEO
 categories:
-  - SEO
-permalink: marimas-tidak-bikin-batuk
+- SEO
 ---
+
 ## Marimas bikin Adem tidak Bikin Batuk
 
 Wah sudah lama ya saya tidak posting diblog ini, terakhir tahun 2016 saat itu ada kontes SEO juga. kali ini saya juga mengunjungi blog ini karena kontes [SEO Marimas bikin Adem tidak bikin batuk](http://blog.putraeka.org/post/marimas-bikin-adem-tidak-bikin-batuk) yang sebentar lagi akan diumumkan pemenangnya. 
