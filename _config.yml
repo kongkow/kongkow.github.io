@@ -1,0 +1,17 @@
+---
+title: Blog Ratakan Pejwan
+timezone: Asia/Jakarta
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+excerpt_separator: 
+pygments: true
+markdown: kramdown
+url: http://kongkow.github.io
+tagline: A log of everyday life
+description: Kumpulan Tulisan yang bermanfaat untuk kesehatan blog anda
+paginate: 3
